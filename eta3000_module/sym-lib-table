@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name eta3000_module)(type Legacy)(uri ${KIPRJMOD}/eta3000_module.lib)(options "")(descr ""))
+)
